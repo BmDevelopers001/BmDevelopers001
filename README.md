@@ -1,14 +1,4 @@
-<!-- - 👋 Hi, I’m @BmDevelopers001
-- 👀 I’m interested in Node Backend Development
-- 🌱 I’m currently learning NodeJS, ExpressJS, MongoDB
-- 📫 How to reach me ...
-
-<!---
-BmDevelopers001/BmDevelopers001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- 
- <h1 align="center">Hi 👋, I'm Brijesh Savaliya</h1>
+<h1 align="center">Hi 👋, I'm Brijesh Savaliya</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bmdevelopers001&label=Profile%20views&color=0e75b6&style=flat" alt="bmdevelopers001" /> </p>
