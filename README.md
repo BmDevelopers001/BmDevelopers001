@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bmsavaliya001@gmail.com**
 
-- 📄 Know about my experiences [https://bmdevelopers001.github.io/Media/Brijesh_Savaliya_Resume.pdf](https://bmdevelopers001.github.io/Media/Brijesh_Savaliya_Resume.pdf)
+- 📄 Know about my experiences [https://bmdevelopers001.github.io/Media/Brijesh_Savaliya_Resume.pdf](https://bmdevelopers001.github.io/Media/fw21_0527-Brijesh-Savaliya-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
