@@ -1,4 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Brijesh Savaliya</h1>
+
 <h3 align="center">A passionate Backend Developer from India having speciality in NodeJs having knowledge of MongoDB as well as MySQL. I also have basic knowledge of AWS and System Design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bmdevelopers001&label=Profile%20views&color=0e75b6&style=flat" alt="bmdevelopers001" /> </p>
