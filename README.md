@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bmdevelopers001&label=Profile%20views&color=0e75b6&style=flat" alt="bmdevelopers001" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bmdevelopers001" alt="bmdevelopers001" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=bmdevelopers001](https://github-profile-trophy.vercel.app/?username=bmdevelopers001&theme=monokai&no-frame=true)" alt="bmdevelopers001" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bmdevelopers001&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=bmdevelopers001&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, MySQL, ReactJS**
 
