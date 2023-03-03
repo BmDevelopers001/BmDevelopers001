@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bmdevelopers001" alt="bmdevelopers001" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bmdevelopers001&theme=monokai&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bmdevelopers001&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, MySQL, ReactJS**
 
